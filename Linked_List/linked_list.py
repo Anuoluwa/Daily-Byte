@@ -20,6 +20,13 @@ class LinkedList:
         else:
             self.head = new_node
 
+
+
+
+
+      
+
+
     
 
 a = LinkedListNode(3)
